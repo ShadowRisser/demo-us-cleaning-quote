@@ -1,2 +1,3 @@
-# demo-us-cleaning-quote
-Reusable cleaning service quote and booking demo website for outreach.
+# US Cleaning Quote Demo
+
+Reusable demo site for cleaning service outreach.
